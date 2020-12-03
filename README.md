@@ -1,2 +1,2 @@
 # simpleRTOS
-Simple RTOS using C++ on Arm Cortex STM32
+Simple RTOS from scratch using C++ on Arm Cortex STM32
